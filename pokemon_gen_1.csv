@@ -1,0 +1,152 @@
+id,nome,tipo,altura_m,peso_kg,geracao,url_imagem
+1,Bulbasaur,Grass / Poison,0.7,6.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png
+2,Ivysaur,Grass / Poison,1.0,13.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png
+3,Venusaur,Grass / Poison,2.0,100.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png
+4,Charmander,Fire,0.6,8.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png
+5,Charmeleon,Fire,1.1,19.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png
+6,Charizard,Fire / Flying,1.7,90.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png
+7,Squirtle,Water,0.5,9.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png
+8,Wartortle,Water,1.0,22.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png
+9,Blastoise,Water,1.6,85.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png
+10,Caterpie,Bug,0.3,2.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png
+11,Metapod,Bug,0.7,9.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png
+12,Butterfree,Bug / Flying,1.1,32.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png
+13,Weedle,Bug / Poison,0.3,3.2,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png
+14,Kakuna,Bug / Poison,0.6,10.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png
+15,Beedrill,Bug / Poison,1.0,29.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png
+16,Pidgey,Normal / Flying,0.3,1.8,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png
+17,Pidgeotto,Normal / Flying,1.1,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png
+18,Pidgeot,Normal / Flying,1.5,39.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png
+19,Rattata,Normal,0.3,3.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png
+20,Raticate,Normal,0.7,18.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png
+21,Spearow,Normal / Flying,0.3,2.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png
+22,Fearow,Normal / Flying,1.2,38.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png
+23,Ekans,Poison,2.0,6.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png
+24,Arbok,Poison,3.5,65.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png
+25,Pikachu,Electric,0.4,6.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png
+26,Raichu,Electric,0.8,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png
+27,Sandshrew,Ground,0.6,12.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png
+28,Sandslash,Ground,1.0,29.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png
+29,Nidoran-f,Poison,0.4,7.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png
+30,Nidorina,Poison,0.8,20.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png
+31,Nidoqueen,Poison / Ground,1.3,60.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png
+32,Nidoran-m,Poison,0.5,9.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png
+33,Nidorino,Poison,0.9,19.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png
+34,Nidoking,Poison / Ground,1.4,62.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png
+35,Clefairy,Fairy,0.6,7.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png
+36,Clefable,Fairy,1.3,40.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png
+37,Vulpix,Fire,0.6,9.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png
+38,Ninetales,Fire,1.1,19.9,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png
+39,Jigglypuff,Normal / Fairy,0.5,5.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png
+40,Wigglytuff,Normal / Fairy,1.0,12.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png
+41,Zubat,Poison / Flying,0.8,7.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png
+42,Golbat,Poison / Flying,1.6,55.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png
+43,Oddish,Grass / Poison,0.5,5.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png
+44,Gloom,Grass / Poison,0.8,8.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png
+45,Vileplume,Grass / Poison,1.2,18.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png
+46,Paras,Bug / Grass,0.3,5.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png
+47,Parasect,Bug / Grass,1.0,29.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png
+48,Venonat,Bug / Poison,1.0,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png
+49,Venomoth,Bug / Poison,1.5,12.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png
+50,Diglett,Ground,0.2,0.8,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png
+51,Dugtrio,Ground,0.7,33.3,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png
+52,Meowth,Normal,0.4,4.2,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png
+53,Persian,Normal,1.0,32.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png
+54,Psyduck,Water,0.8,19.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png
+55,Golduck,Water,1.7,76.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png
+56,Mankey,Fighting,0.5,28.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png
+57,Primeape,Fighting,1.0,32.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png
+58,Growlithe,Fire,0.7,19.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png
+59,Arcanine,Fire,1.9,155.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png
+60,Poliwag,Water,0.6,12.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png
+61,Poliwhirl,Water,1.0,20.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png
+62,Poliwrath,Water / Fighting,1.3,54.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png
+63,Abra,Psychic,0.9,19.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png
+64,Kadabra,Psychic,1.3,56.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png
+65,Alakazam,Psychic,1.5,48.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png
+66,Machop,Fighting,0.8,19.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png
+67,Machoke,Fighting,1.5,70.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png
+68,Machamp,Fighting,1.6,130.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png
+69,Bellsprout,Grass / Poison,0.7,4.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png
+70,Weepinbell,Grass / Poison,1.0,6.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png
+71,Victreebel,Grass / Poison,1.7,15.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png
+72,Tentacool,Water / Poison,0.9,45.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png
+73,Tentacruel,Water / Poison,1.6,55.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png
+74,Geodude,Rock / Ground,0.4,20.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png
+75,Graveler,Rock / Ground,1.0,105.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png
+76,Golem,Rock / Ground,1.4,300.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png
+77,Ponyta,Fire,1.0,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png
+78,Rapidash,Fire,1.7,95.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png
+79,Slowpoke,Water / Psychic,1.2,36.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png
+80,Slowbro,Water / Psychic,1.6,78.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png
+81,Magnemite,Electric / Steel,0.3,6.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png
+82,Magneton,Electric / Steel,1.0,60.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png
+83,Farfetchd,Normal / Flying,0.8,15.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png
+84,Doduo,Normal / Flying,1.4,39.2,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png
+85,Dodrio,Normal / Flying,1.8,85.2,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png
+86,Seel,Water,1.1,90.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png
+87,Dewgong,Water / Ice,1.7,120.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png
+88,Grimer,Poison,0.9,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png
+89,Muk,Poison,1.2,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png
+90,Shellder,Water,0.3,4.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png
+91,Cloyster,Water / Ice,1.5,132.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png
+92,Gastly,Ghost / Poison,1.3,0.1,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png
+93,Haunter,Ghost / Poison,1.6,0.1,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png
+94,Gengar,Ghost / Poison,1.5,40.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png
+95,Onix,Rock / Ground,8.8,210.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png
+96,Drowzee,Psychic,1.0,32.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png
+97,Hypno,Psychic,1.6,75.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png
+98,Krabby,Water,0.4,6.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png
+99,Kingler,Water,1.3,60.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png
+100,Voltorb,Electric,0.5,10.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png
+101,Electrode,Electric,1.2,66.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png
+102,Exeggcute,Grass / Psychic,0.4,2.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png
+103,Exeggutor,Grass / Psychic,2.0,120.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png
+104,Cubone,Ground,0.4,6.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png
+105,Marowak,Ground,1.0,45.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png
+106,Hitmonlee,Fighting,1.5,49.8,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png
+107,Hitmonchan,Fighting,1.4,50.2,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png
+108,Lickitung,Normal,1.2,65.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png
+109,Koffing,Poison,0.6,1.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png
+110,Weezing,Poison,1.2,9.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png
+111,Rhyhorn,Ground / Rock,1.0,115.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png
+112,Rhydon,Ground / Rock,1.9,120.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png
+113,Chansey,Normal,1.1,34.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png
+114,Tangela,Grass,1.0,35.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png
+115,Kangaskhan,Normal,2.2,80.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png
+116,Horsea,Water,0.4,8.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png
+117,Seadra,Water,1.2,25.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png
+118,Goldeen,Water,0.6,15.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png
+119,Seaking,Water,1.3,39.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png
+120,Staryu,Water,0.8,34.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png
+121,Starmie,Water / Psychic,1.1,80.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png
+122,Mr-mime,Psychic / Fairy,1.3,54.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png
+123,Scyther,Bug / Flying,1.5,56.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png
+124,Jynx,Ice / Psychic,1.4,40.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png
+125,Electabuzz,Electric,1.1,30.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png
+126,Magmar,Fire,1.3,44.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png
+127,Pinsir,Bug,1.5,55.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png
+128,Tauros,Normal,1.4,88.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png
+129,Magikarp,Water,0.9,10.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png
+130,Gyarados,Water / Flying,6.5,235.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png
+131,Lapras,Water / Ice,2.5,220.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png
+132,Ditto,Normal,0.3,4.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png
+133,Eevee,Normal,0.3,6.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png
+134,Vaporeon,Water,1.0,29.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png
+135,Jolteon,Electric,0.8,24.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png
+136,Flareon,Fire,0.9,25.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png
+137,Porygon,Normal,0.8,36.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png
+138,Omanyte,Rock / Water,0.4,7.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png
+139,Omastar,Rock / Water,1.0,35.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png
+140,Kabuto,Rock / Water,0.5,11.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png
+141,Kabutops,Rock / Water,1.3,40.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png
+142,Aerodactyl,Rock / Flying,1.8,59.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png
+143,Snorlax,Normal,2.1,460.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png
+144,Articuno,Ice / Flying,1.7,55.4,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png
+145,Zapdos,Electric / Flying,1.6,52.6,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png
+146,Moltres,Fire / Flying,2.0,60.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png
+147,Dratini,Dragon,1.8,3.3,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png
+148,Dragonair,Dragon,4.0,16.5,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png
+149,Dragonite,Dragon / Flying,2.2,210.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png
+150,Mewtwo,Psychic,2.0,122.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png
+151,Mew,Psychic,0.4,4.0,1ª Geração (Kanto),https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png

@@ -2,11 +2,11 @@ import pandas as pd
 import streamlit as st
 from pokemon_api import salvar_pokemon_por_geracao
 
-st.set_page_config(page_title="Pokédex por Geração", page_icon="🌐", layout="wide")
+st.set_page_config(page_title="Pokédex com Gráficos", page_icon="📊", layout="wide")
 
-st.title("🌐 Pokédex Organizada por Gerações")
+st.title("📊 Pokédex Estatística com Gráficos")
 st.write(
-    "Selecione uma região/geração específica para listar os Pokémon e gerar o seu relatório em CSV."
+    "Selecione uma região/geração para visualizar a distribuição de tipos e listar os Pokémon."
 )
 
 st.divider()
@@ -27,9 +27,7 @@ opcoes_geracao = {
 col_combo, col_nome = st.columns(2)
 
 with col_combo:
-    # Cria a caixa de seleção na tela
     selecao = st.selectbox("Escolha a Geração desejada:", list(opcoes_geracao.keys()))
-    # Pega o número correspondente (1, 2, 3...) da opção selecionada
     geracao_escolhida = opcoes_geracao[selecao]
 
 with col_nome:
@@ -37,23 +35,44 @@ with col_nome:
         "Nome do arquivo CSV:", value=f"pokemon_gen_{geracao_escolhida}.csv"
     )
 
-if st.button("Buscar Geração Completa", type="primary"):
-    # Como carregar gerações inteiras pode demorar um pouco (ex: 151 requisições),
-    # deixamos um aviso bem claro na tela para o usuário.
-    with st.spinner(
-        f"Extraindo todos os dados da geração selecionada diretamente da PokeAPI... Aguarde..."
-    ):
+if st.button("Buscar e Analisar Geração", type="primary"):
+    with st.spinner("Buscando dados e gerando análises... Aguarde..."):
         salvar_pokemon_por_geracao(
             geracao_num=geracao_escolhida, nome_arquivo_csv=nome_arquivo
         )
 
     try:
         df = pd.read_csv(nome_arquivo)
-        st.success(
-            f"Excelente! Todos os {len(df)} Pokémon da geração foram carregados com sucesso."
-        )
+        st.success(f"Dados da geração carregados com sucesso!")
 
-        st.subheader(f"🖼️ Galeria: {selecao}")
+        # ==========================================
+        # 📊 NOVA SEÇÃO: GRÁFICO DE BARRAS POR TIPO
+        # ==========================================
+        st.subheader("📈 Quantidade de Pokémon por Tipo")
+
+        # 1. Separar os tipos combinados (ex: "Grass / Poison" vira ["Grass", "Poison"])
+        lista_todos_tipos = []
+        for tipos_pokemon in df["tipo"].dropna():
+            # Divide os tipos onde houver a barra " / " e limpa espaços extras
+            partes = [t.strip() for t in tipos_pokemon.split("/")]
+            lista_todos_tipos.extend(partes)
+
+        # 2. Criar um novo DataFrame contando a frequência de cada tipo
+        df_contagem_tipos = pd.Series(lista_todos_tipos).value_counts().reset_index()
+        df_contagem_tipos.columns = ["Tipo", "Quantidade"]
+
+        # 3. Definir o "Tipo" como índice para o Streamlit entender o eixo X do gráfico
+        df_contagem_tipos = df_contagem_tipos.set_index("Tipo")
+
+        # 4. Renderizar o gráfico de barras na tela
+        st.bar_chart(df_contagem_tipos, y="Quantidade", color="#ff4b4b")
+
+        st.divider()
+
+        # ==========================================
+        # 🖼️ EXIBIÇÃO DOS CARDS
+        # ==========================================
+        st.subheader(f"🖼️ Galeria de Pokémon: {selecao}")
 
         colunas_por_linha = 4
         for i in range(0, len(df), colunas_por_linha):
@@ -87,6 +106,4 @@ if st.button("Buscar Geração Completa", type="primary"):
             )
 
     except Exception as e:
-        st.error(f"Erro ao processar exibição: {e}")
-    except Exception as e:
-        st.error(f"Erro ao processar exibição: {e}")
+        st.error(f"Erro ao processar exibição ou gráfico: {e}")
